@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "${loader_version_range}"
 license = "${mod_license}"
-issueTrackerURL = "https://github.com/example/media-visualizer/issues"
+issueTrackerURL = "https://github.com/thewhiteninjas/Media-Visualizer-Mod"
 
 [[mods]]
 modId = "${mod_id}"
@@ -9,7 +9,7 @@ version = "${mod_version}"
 displayName = "${mod_name}"
 authors = "${mod_authors}"
 description = '''${mod_description}'''
-displayURL = "https://github.com/example/media-visualizer"
+displayURL = "https://github.com/thewhiteninjas/Media-Visualizer-Mod"
 credits = "Thanks to the NeoForge team."
 
 [[dependencies.${mod_id}]]
