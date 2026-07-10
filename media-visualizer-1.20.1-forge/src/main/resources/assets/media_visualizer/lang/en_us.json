@@ -1,0 +1,54 @@
+{
+  "modmenu.descriptionTranslation.media_visualizer": "A system-audio spectrum visualizer rendered behind the vanilla HUD.",
+
+  "config.media_visualizer.title": "Media Visualizer Configuration",
+
+  "config.media_visualizer.category.general": "General",
+  "config.media_visualizer.category.appearance": "Appearance",
+  "config.media_visualizer.category.colors": "Colors",
+  "config.media_visualizer.category.audio": "Audio",
+  "config.media_visualizer.category.performance": "Performance",
+
+  "config.media_visualizer.modEnabled": "Enable Mod",
+  "config.media_visualizer.modEnabled.tooltip": "Master switch for the entire mod, including audio capture.",
+  "config.media_visualizer.visualizerEnabled": "Visualizer Enabled",
+  "config.media_visualizer.visualizerEnabled.tooltip": "Toggles rendering of the spectrum bars without stopping audio capture.",
+
+  "config.media_visualizer.barWidth": "Bar Width",
+  "config.media_visualizer.barSpacing": "Bar Spacing",
+  "config.media_visualizer.barCount": "Number of Bars",
+  "config.media_visualizer.maxHeight": "Maximum Height",
+  "config.media_visualizer.yOffset": "Y Offset",
+  "config.media_visualizer.opacity": "Opacity",
+
+  "config.media_visualizer.colorMode": "Color Mode",
+  "config.media_visualizer.color1": "Color 1",
+  "config.media_visualizer.color2": "Color 2",
+  "config.media_visualizer.color3": "Color 3",
+  "config.media_visualizer.useThirdColor": "Use Third Color",
+  "config.media_visualizer.rainbowSpeed": "Rainbow Speed",
+  "config.media_visualizer.rainbowSaturation": "Rainbow Saturation",
+  "config.media_visualizer.rainbowBrightness": "Rainbow Brightness",
+
+  "config.media_visualizer.outputDevice": "Output Device",
+  "config.media_visualizer.sensitivity": "Sensitivity",
+  "config.media_visualizer.fftSize": "FFT Size",
+  "config.media_visualizer.smoothing": "Smoothing",
+
+  "config.media_visualizer.targetFps": "Target FPS",
+  "config.media_visualizer.updateRateMs": "Update Rate (ms)",
+  "config.media_visualizer.interpolationStrength": "Interpolation Strength",
+
+  "config.media_visualizer.mirrorMode": "Mirror Mode",
+  "config.media_visualizer.bassBoost": "Bass Boost",
+  "config.media_visualizer.frequencyScaling": "Frequency Scaling",
+  "config.media_visualizer.easing": "Animation Easing",
+  "config.media_visualizer.silenceDetection": "Automatic Silence Detection",
+
+  "screen.media_visualizer.config.title": "Media Visualizer Settings",
+  "screen.media_visualizer.config.tab.general": "General",
+  "screen.media_visualizer.config.tab.colors": "Colors",
+  "screen.media_visualizer.config.tab.audio": "Audio",
+  "screen.media_visualizer.config.device.refresh": "Refresh Devices",
+  "screen.media_visualizer.config.done": "Done"
+}
